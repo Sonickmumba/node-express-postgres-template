@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Sonickmumba/node-express-postgres-template/issues"
   },
-  "homepage": "https://github.com/Sonickmumba/node-express-postgres-template#readme"
+  "homepage": "https://github.com/Sonickmumba/node-express-postgres-template#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
 }
