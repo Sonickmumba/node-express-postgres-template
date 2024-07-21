@@ -1,5 +1,5 @@
 {
-  "name": "express-postgres-template",
+  "name": "shopninja",
   "version": "1.0.0",
   "description": "<a name=\"readme-top\"></a>",
   "main": "index.js",
@@ -8,19 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sonickmumba/node-express-postgres-template.git"
+    "url": "git+https://github.com/Sonickmumba/ShopNinja.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sonickmumba/node-express-postgres-template/issues"
+    "url": "https://github.com/Sonickmumba/ShopNinja/issues"
   },
-  "homepage": "https://github.com/Sonickmumba/node-express-postgres-template#readme",
-  "dependencies": {
-    "body-parser": "^1.20.2",
-    "cors": "^2.8.5",
-    "express": "^4.19.2",
-    "pg": "^8.12.0"
-  }
+  "homepage": "https://github.com/Sonickmumba/ShopNinja#readme"
 }
